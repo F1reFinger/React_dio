@@ -1,0 +1,11 @@
+indução é quando algo é gerado a partir de um teste ou de algo realizado previamente
+
+dedução é algo gerado a partir de uma teoria uma suposição de algo a acontecer
+
+abdução é quando a partr de um resultado é gerado uma dedução ou uma teoria de algo que aconteceu previamente
+
+
+udp dispara pacotes atravéz da rede mas não recebe confirmção sobre o recebimento
+
+tcp dispara pacotes e espera a confirmação do recebimento do pacote enviado caso não haja a confirmação
+pode ocorrer um novo envio 
