@@ -1,0 +1,40 @@
+.background{
+    background-color: darkslateblue;
+}
+.name{
+    font-family: initial;
+    text-align: center;
+    color: black;
+}
+.top{
+    background-color: pink;
+    padding: 14px;
+    border: 3px dashed greenyellow;
+    border-radius:20px;
+}
+.link { 
+    padding-left: 10%;
+    list-style-image: url("../images/icons8-github-squared-100\ \(1\).png");
+    color: orangered; 
+}
+.link:hover { 
+    list-style-image: url("../images/icons8-github-squared-100.png");
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #00FF00; 
+}
+.that{
+    align-items: center;
+}
+.images {
+    justify-content: row;
+    width: auto; 
+    height: auto;
+}
+
+.lista { 
+    
+    max-width: 25%;
+    min-width: 1%;
+    max-height: 5%;
+    min-height: 1%;
+}
